@@ -5,7 +5,7 @@
 
 M.S. Student / AI / Desktop Application Developer from Japan 🇯🇵
 
-Building modern desktop apps, AI systems, and developer tools.
+Building desktop applications, AI systems, and developer tools.
 
 </div>
 
@@ -14,8 +14,8 @@ Building modern desktop apps, AI systems, and developer tools.
 ## About Me
 
 - Researching and developing desktop applications with WPF / C#
-- Building APIs and AI systems using FastAPI / Python for research and personal projects
-- Interested in LLM applications, AI systems, and developer productivity
+- Building APIs and AI systems using FastAPI / Python
+- Interested in LLM applications and developer productivity
 - Familiar with low-level programming using C / C++
 
 ---
@@ -30,19 +30,17 @@ Building modern desktop apps, AI systems, and developer tools.
 
 ---
 
-## GitHub Stats
+## Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=reonafujinami8&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reonafujinami8&layout=compact&theme=tokyonight&hide_border=true" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reonafujinami8&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## Activity
+## GitHub Streak
 
 <div align="center">
 
