@@ -24,7 +24,7 @@ Building desktop applications, AI systems, and developer tools.
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,cpp,c,sqlite,linux,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,cpp,c,sqlite,linux,git,github,vscode,vim,neovim)](https://skillicons.dev)
 
 </div>
 
