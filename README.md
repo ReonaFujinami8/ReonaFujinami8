@@ -40,16 +40,6 @@ Building desktop applications, AI systems, and developer tools.
 
 ---
 
-## GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=reonafujinami8&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## Current Interests
 
 - LLM-powered applications
